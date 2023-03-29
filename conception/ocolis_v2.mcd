@@ -1,0 +1,7 @@
+contient, 1N EXPEDITION, 11 COLIS
+COLIS: numéro interne, contenu, poids, volume, valeur estimée
+reçoit, 0N ADRESSE, 11 COLIS
+
+EXPEDITION:livreur,véhicule,heure de début, heure de fin
+envoie, 0N ADRESSE, 11 COLIS
+ADRESSE: référence interne, nom, ligne principale, complément, code postal, ville

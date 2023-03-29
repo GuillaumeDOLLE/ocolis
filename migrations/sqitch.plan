@@ -1,0 +1,10 @@
+%syntax-version=1.0.0
+%project=ocolis
+
+1.create_table 2022-08-16T12:47:40Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # modification du type de serial_number
+2.serial_number_to_text 2022-08-16T12:47:41Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # modification du type de serial_number
+3.serial_number_unique 2022-08-16T12:47:41Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # modification du type de serial_number
+4.volume 2022-08-17T07:43:05Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # division du volume en largeur, hauteur, profondeur
+5.tracking 2022-08-17T07:43:05Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # modification de la table package pour la tracking
+6.expedition 2022-08-17T07:59:11Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # ajout de la table expédition
+7.constraints 2022-08-17T09:57:35Z teacher <teacher@benjamin-nougadere-oclock-teacher.cloud.eddi.xyz> # ajout des contraintes
